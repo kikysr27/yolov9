@@ -1,7 +1,8 @@
 # yolov9
 
 
-yolov9 release 2024
+yolov9 release 2024 
+link : https://youtu.be/fWn65HZP5lQ
 
 ## Tautan YouTube
 
